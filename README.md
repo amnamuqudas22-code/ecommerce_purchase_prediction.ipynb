@@ -23,7 +23,7 @@ The dataset contains 12,330 user sessions over one year, including metrics like 
 
 ## Visualizing the Story
 
-![Product Engagement vs Revenue](product_pages_vs_revenue.png)
+![Product Engagement vs Revenue]
 
 *Visitors who engage with high-value pages are more likely to convert than casual browsers, highlighting the importance of targeted engagement.*
 
